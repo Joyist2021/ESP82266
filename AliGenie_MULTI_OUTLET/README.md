@@ -15,7 +15,7 @@
   
   2，  Webserver配置：开发板上电5s后发出ap信号，启动httpserver
   
-  在httpserver启动后，开发板发出wifi，ssid为：“PM2.5_ESP_xxxxxx”，其中xxxxxx为芯片mac地址后六位
+  在httpserver启动后，开发板发出wifi，ssid为：“ESP_xxxxxx”，其中xxxxxx为芯片mac地址后六位
   
   使用笔记本或者手机连接该ssid，密码为空，然后使用浏览器设置，地址为192.168.4.1
   
